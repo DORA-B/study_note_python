@@ -3,4 +3,4 @@
 
 ## 仅用于测试用的句子
 
-![png](np_where)
+![png](np_where.png)
