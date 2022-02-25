@@ -1,0 +1,37 @@
+D:\Anaconda\envs\torchenv10\python.exe D:/Github/study_note_python/3D-project/Thinning-Algorithms-master/LuWang/luwang.py
+(2120, 2120)
+fgps:  1382918
+Iteration:  1 changes_occured:  174473
+Iteration:  2 changes_occured:  173754
+Iteration:  3 changes_occured:  171596
+Iteration:  4 changes_occured:  168836
+Iteration:  5 changes_occured:  161310
+Iteration:  6 changes_occured:  148383
+Iteration:  7 changes_occured:  122004
+Iteration:  8 changes_occured:  93268
+Iteration:  9 changes_occured:  45247
+Iteration:  10 changes_occured:  27555
+Iteration:  11 changes_occured:  10499
+Iteration:  12 changes_occured:  5954
+Iteration:  13 changes_occured:  2534
+Iteration:  14 changes_occured:  1499
+Iteration:  15 changes_occured:  770
+Iteration:  16 changes_occured:  424
+Iteration:  17 changes_occured:  167
+Iteration:  18 changes_occured:  63
+Iteration:  19 changes_occured:  10
+Iteration:  20 changes_occured:  0
+fgpst:  74572
+(2120, 2120)
+fgps:  3044994
+Iteration:  1 changes_occured:  0
+fgpst:  3044994
+Total time:  374.9824662208557
+Average time:  187.49123311042786
+Reduction rate:  94.60763400288376
+Average Reduction rate:  47.30381700144188
+sensitivity:  1.8922698236627191
+Average sensitivty:  0.9461349118313596
+Average thinness:  0.4990639218347401
+
+进程已结束，退出代码为 0

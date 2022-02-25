@@ -1,0 +1,60 @@
+D:\Anaconda\envs\torchenv10\python.exe D:/Github/study_note_python/3D-project/Thinning-Algorithms-master/Hilditch/hilditch.py
+(2120, 2120)
+fgps:  1382918
+Iteration:  1 changes_occured:  98350
+Iteration:  2 changes_occured:  99972
+Iteration:  3 changes_occured:  99444
+Iteration:  4 changes_occured:  98734
+Iteration:  5 changes_occured:  98576
+Iteration:  6 changes_occured:  96643
+Iteration:  7 changes_occured:  92118
+Iteration:  8 changes_occured:  89015
+Iteration:  9 changes_occured:  77294
+Iteration:  10 changes_occured:  71720
+Iteration:  11 changes_occured:  61433
+Iteration:  12 changes_occured:  55212
+Iteration:  13 changes_occured:  48014
+Iteration:  14 changes_occured:  42274
+Iteration:  15 changes_occured:  37500
+Iteration:  16 changes_occured:  32619
+Iteration:  17 changes_occured:  23410
+Iteration:  18 changes_occured:  19856
+Iteration:  19 changes_occured:  16990
+Iteration:  20 changes_occured:  13608
+Iteration:  21 changes_occured:  8513
+Iteration:  22 changes_occured:  6521
+Iteration:  23 changes_occured:  5233
+Iteration:  24 changes_occured:  3886
+Iteration:  25 changes_occured:  2442
+Iteration:  26 changes_occured:  1543
+Iteration:  27 changes_occured:  1152
+Iteration:  28 changes_occured:  779
+Iteration:  29 changes_occured:  504
+Iteration:  30 changes_occured:  324
+Iteration:  31 changes_occured:  236
+Iteration:  32 changes_occured:  183
+Iteration:  33 changes_occured:  90
+Iteration:  34 changes_occured:  58
+Iteration:  35 changes_occured:  40
+Iteration:  36 changes_occured:  34
+Iteration:  37 changes_occured:  24
+Iteration:  38 changes_occured:  17
+Iteration:  39 changes_occured:  13
+Iteration:  40 changes_occured:  9
+Iteration:  41 changes_occured:  5
+Iteration:  42 changes_occured:  2
+Iteration:  43 changes_occured:  0
+fgpst:  78528
+(2120, 2120)
+fgps:  3044994
+Iteration:  1 changes_occured:  0
+fgpst:  3044994
+Total time:  593.3277013301849
+Average time:  296.66385066509247
+Reduction rate:  94.32157221180142
+Average Reduction rate:  47.16078610590071
+sensitivity:  1.8866498230553077
+Average sensitivty:  0.9433249115276539
+Average thinness:  0.49888152037276645
+
+进程已结束，退出代码为 0

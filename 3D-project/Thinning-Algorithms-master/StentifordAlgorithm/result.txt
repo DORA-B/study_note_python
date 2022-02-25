@@ -1,0 +1,89 @@
+D:\Anaconda\envs\torchenv10\python.exe D:/Github/study_note_python/3D-project/Thinning-Algorithms-master/StentifordAlgorithm/stentiford.py
+fgps:  1382918
+iteration:  1 changes:  47168
+iteration:  2 changes:  41443
+iteration:  3 changes:  46996
+iteration:  4 changes:  41269
+iteration:  5 changes:  46784
+iteration:  6 changes:  41046
+iteration:  7 changes:  46579
+iteration:  8 changes:  40842
+iteration:  9 changes:  46309
+iteration:  10 changes:  40482
+iteration:  11 changes:  46042
+iteration:  12 changes:  40213
+iteration:  13 changes:  45676
+iteration:  14 changes:  39677
+iteration:  15 changes:  45314
+iteration:  16 changes:  39265
+iteration:  17 changes:  43379
+iteration:  18 changes:  37232
+iteration:  19 changes:  42770
+iteration:  20 changes:  36428
+iteration:  21 changes:  40825
+iteration:  22 changes:  34170
+iteration:  23 changes:  39332
+iteration:  24 changes:  32966
+iteration:  25 changes:  34261
+iteration:  26 changes:  26817
+iteration:  27 changes:  30664
+iteration:  28 changes:  24691
+iteration:  29 changes:  27600
+iteration:  30 changes:  20435
+iteration:  31 changes:  23210
+iteration:  32 changes:  17474
+iteration:  33 changes:  13245
+iteration:  34 changes:  9314
+iteration:  35 changes:  10637
+iteration:  36 changes:  7530
+iteration:  37 changes:  8633
+iteration:  38 changes:  5692
+iteration:  39 changes:  6375
+iteration:  40 changes:  4161
+iteration:  41 changes:  2962
+iteration:  42 changes:  1973
+iteration:  43 changes:  2367
+iteration:  44 changes:  1559
+iteration:  45 changes:  1842
+iteration:  46 changes:  1125
+iteration:  47 changes:  1247
+iteration:  48 changes:  800
+iteration:  49 changes:  653
+iteration:  50 changes:  470
+iteration:  51 changes:  533
+iteration:  52 changes:  368
+iteration:  53 changes:  432
+iteration:  54 changes:  272
+iteration:  55 changes:  308
+iteration:  56 changes:  185
+iteration:  57 changes:  186
+iteration:  58 changes:  107
+iteration:  59 changes:  142
+iteration:  60 changes:  76
+iteration:  61 changes:  119
+iteration:  62 changes:  42
+iteration:  63 changes:  96
+iteration:  64 changes:  29
+iteration:  65 changes:  32
+iteration:  66 changes:  12
+iteration:  67 changes:  28
+iteration:  68 changes:  6
+iteration:  69 changes:  13
+iteration:  70 changes:  4
+iteration:  71 changes:  9
+iteration:  72 changes:  0
+total_changes:  1290943
+fgpst:  91975
+fgps:  3044994
+iteration:  1 changes:  0
+total_changes:  0
+fgpst:  3044994
+Total time:  294.4368441104889
+Average time:  147.21842205524445
+Reduction rate:  93.34920797907034
+Average Reduction rate:  46.67460398953517
+sensitivity:  1.8671258888813365
+Average sensitivty:  0.9335629444406682
+Average thinness:  0.4965068489735075
+
+进程已结束，退出代码为 0
