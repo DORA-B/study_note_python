@@ -3,7 +3,7 @@ import cv2
 import ftlib as ft
 
 # img = cv2.imread('test_image.tif',0) #binary image
-img = cv2.imread('up_image.png',0) #binary image
+img = cv2.imread('img_down0Chengshi.jpg',0) #binary image
 thinned_image = ft.fastThin(img)
 res = np.hstack((img,thinned_image))
 # cv2.imshow('original image',img)

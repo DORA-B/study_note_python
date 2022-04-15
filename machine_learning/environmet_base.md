@@ -79,6 +79,14 @@ conda install hdf5
 conda install tensorflow-gpu
 你就获得了编译链接到cuda和mkl加持的tensorflow库，同时还有编译链接到mkl上的numpy。
 ```
+
+创建新环境的过程：
+
+```shell
+conda create --name tf2 python=3.7      # “tf2”是你建立的conda虚拟环境的名字
+conda activate tf2                      # 进入名为“tf2”的conda虚拟环境
+```
+
 如何升级pip，首先明确使用的不是系统pip，必须先要进入特定的环境
 > pip install --upgrade pip
 
