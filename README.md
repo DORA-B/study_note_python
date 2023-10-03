@@ -1,6 +1,1 @@
-# study_note_python
-可能会记录一些小的tips
-
-## 仅用于测试用的句子
-
-![png](np_where.png)
+This is a repository that contains the 3D-project and machine-learning enviroment configuration, which will be updated later.
